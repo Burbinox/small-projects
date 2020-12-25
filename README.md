@@ -20,4 +20,4 @@ Small project is a git repository where I'm posting my small projects
 
 ## wisdompets
 - my first **DJANGO** project 
-- dogs' shelter web page template
+- dogs' shelter website template
