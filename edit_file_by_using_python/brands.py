@@ -4,14 +4,14 @@
   """
 cars = []
 
-file = open('plik.txt', encoding="utf8")
+file = open('file.txt', encoding="utf8")
 for line in file:
     cars.append(line)
 
 del cars[::3]
 del cars[1::2]
 
-brands = open('marki.txt', "a+")
+brands = open('brands.txt', "a+")
 
 for car in cars:
     brands.write(car)
