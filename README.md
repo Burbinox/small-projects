@@ -14,3 +14,6 @@ Small project is a git repository where I'm posting my small projects
 
 ## strong_password_detector
 - program check if password is strong enough using regex library 
+
+## collatz_problem
+- this is a function which solve "the simplest unsolvable math problem" named collatz problem
