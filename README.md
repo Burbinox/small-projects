@@ -11,3 +11,6 @@ Small project is a git repository where I'm posting my small projects
 ## wisdompets
 - my first **DJANGO** project 
 - dogs' shelter web page template
+
+## strong_password_detector
+- program check if password is strong enough using regex library 
