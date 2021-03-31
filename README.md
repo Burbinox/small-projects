@@ -8,6 +8,9 @@ Small project is a git repository where I'm posting my small projects
 ## collatz_problem
 - this is a function which solve "the simplest unsolvable math problem" named collatz problem
 
+## console_tetris
+- simple tetris game
+
 ## edit_file_by_using_python
 - program where I do stuff on text file (like read lines, edit elements and save it to new file)
 
@@ -18,6 +21,10 @@ Small project is a git repository where I'm posting my small projects
 ## my_first_website(hangman)
 - my first **JS/HTML/CSS** program 
 - you have to guess car brand 
+
+## smallest_sum_of_numbers_in_a_triangle
+- program that finds the path in the triangle of the number whose sum of numbers is the smallest
+- return the the smallest sum value and its path
 
 ## strong_password_detector
 - a program check if password is strong enough using regex library 
