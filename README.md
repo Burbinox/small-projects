@@ -22,9 +22,9 @@ Small project is a git repository where I'm posting my small projects
 - my first **JS/HTML/CSS** program 
 - you have to guess car brand 
 
-## smallest_sum_of_numbers_in_a_triangle
-- program that finds the path in the triangle of the number whose sum of numbers is the smallest
-- return the the smallest sum value and its path
+## sum_of_numbers_in_a_triangle
+- program that finds the path in the triangle of the number whose sum of numbers is the smallest or the longest 
+- return the the smallest or the langest sum value and its path
 
 ## strong_password_detector
 - a program check if password is strong enough using regex library 
